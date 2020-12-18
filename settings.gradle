@@ -1,0 +1,4 @@
+include ':cachepreference'
+include ':camerax'
+include ':app'
+rootProject.name = "My Application"
